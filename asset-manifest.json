@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/stock-analysis-reactjs/static/css/main.2956dd5d.css",
+    "main.js": "/stock-analysis-reactjs/static/js/main.a933aa76.js",
+    "static/js/453.24e2f672.chunk.js": "/stock-analysis-reactjs/static/js/453.24e2f672.chunk.js",
+    "static/media/weekly.jpg": "/stock-analysis-reactjs/static/media/weekly.9e4a68912e2af8de3e2a.jpg",
+    "static/media/daily.jpg": "/stock-analysis-reactjs/static/media/daily.f7d5b23dbe7b5fef8196.jpg",
+    "static/media/monthly.jpg": "/stock-analysis-reactjs/static/media/monthly.d638c0edc2c3c92eceaa.jpg",
+    "static/media/home.jpg": "/stock-analysis-reactjs/static/media/home.ba9b3a71baa3cbab4d12.jpg",
+    "index.html": "/stock-analysis-reactjs/index.html",
+    "main.2956dd5d.css.map": "/stock-analysis-reactjs/static/css/main.2956dd5d.css.map",
+    "main.a933aa76.js.map": "/stock-analysis-reactjs/static/js/main.a933aa76.js.map",
+    "453.24e2f672.chunk.js.map": "/stock-analysis-reactjs/static/js/453.24e2f672.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2956dd5d.css",
+    "static/js/main.a933aa76.js"
+  ]
+}
